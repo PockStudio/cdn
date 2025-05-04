@@ -1,0 +1,26 @@
+PACKAGES
+
+DESCRIPTION
+    The packages directory contains various software packages available for installation in PockOS systems.
+    These packages provide additional functionality, applications, and utilities for PockOS.
+
+USAGE
+    Packages are primarily accessed automatically by the PockOS package manager.
+    For manual access, packages can be retrieved directly using a CDN link:
+    https://cdn.jsdelivr.net/gh/PockStudio/cdn@main/packages/example-package/package.zip
+
+STRUCTURE
+    Each package is contained in its own subdirectory, typically named after the package.
+    Package directories may contain:
+    - Installation files
+    - Documentation
+    - Configuration files
+    - Dependencies information
+
+LICENSE
+    All content is proprietary and licensed exclusively for use within the PockOS ecosystem.
+    Use outside of official PockOS systems is strictly prohibited without explicit permission.
+    Individual packages may have additional licensing terms.
+
+SEE ALSO
+    system, updates, metadata

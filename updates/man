@@ -1,0 +1,24 @@
+UPDATES
+
+DESCRIPTION
+    The updates directory contains system updates and patches for PockOS.
+    These updates provide bug fixes, security patches, and new features for the PockOS ecosystem.
+
+USAGE
+    Updates are primarily accessed automatically by the PockOS update system.
+    Manual installation of updates is generally not recommended unless you are
+    performing offline updates or troubleshooting update issues.
+
+STRUCTURE
+    - System patches
+    - Security updates
+    - Feature updates
+    - Firmware or kernel updates
+    - Update manifests and metadata
+
+LICENSE
+    All content is proprietary and licensed exclusively for use within the PockOS ecosystem.
+    Use outside of official PockOS systems is strictly prohibited without explicit permission.
+
+SEE ALSO
+    packages, system, metadata, assets
