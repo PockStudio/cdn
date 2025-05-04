@@ -136,3 +136,5 @@ dist
 .pnp.*
 repack.js
 .env
+base/*
+assets/index.json
